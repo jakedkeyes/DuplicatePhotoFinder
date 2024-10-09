@@ -1,0 +1,5 @@
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\publish\DuplicatePhotoFinder.exe
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\publish\DuplicatePhotoFinder.dll
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\publish\DuplicatePhotoFinder.deps.json
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\publish\DuplicatePhotoFinder.runtimeconfig.json
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\publish\DuplicatePhotoFinder.pdb

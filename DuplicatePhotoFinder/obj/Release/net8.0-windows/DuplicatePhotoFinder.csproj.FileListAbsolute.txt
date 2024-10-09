@@ -1,0 +1,16 @@
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\DuplicatePhotoFinder.exe
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\DuplicatePhotoFinder.deps.json
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\DuplicatePhotoFinder.runtimeconfig.json
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\DuplicatePhotoFinder.dll
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\bin\Release\net8.0-windows\DuplicatePhotoFinder.pdb
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.DuplicatePhotoFinder.resources
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.AssemblyInfo.cs
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.dll
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\refint\DuplicatePhotoFinder.dll
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.pdb
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\DuplicatePhotoFinder.genruntimeconfig.cache
+C:\Users\Jake\source\repos\DuplicatePhotoFinder\obj\Release\net8.0-windows\ref\DuplicatePhotoFinder.dll
